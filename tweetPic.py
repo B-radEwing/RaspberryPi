@@ -2,7 +2,7 @@ import datetime, socket, sys
 from twython import Twython
 
 def tweet(msg):
-        CONSUMER_KEY = ""****"
+        CONSUMER_KEY = "****"
         CONSUMER_SECRET = "****"
         ACCESS_KEY = "****"
         ACCESS_SECRET = "****"
